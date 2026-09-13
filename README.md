@@ -1,4 +1,4 @@
-# Algorithms and Data Structures
+# Algorithms and Data Structures guide
 
 Репозиторий содержит реализации базовых алгоритмов и структур данных на Python.
 
