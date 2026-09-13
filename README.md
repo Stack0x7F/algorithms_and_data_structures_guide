@@ -11,4 +11,4 @@
 
 # ⭐ Если репозиторий оказался полезным — поставь звезду пж!
 
-<img width="503" height="168" alt="image" src="https://github.com/user-attachments/assets/078fb1f8-4840-4003-a5f2-9e7f83b766f0" />
+[<img width="503" height="168" alt="image" src="https://github.com/user-attachments/assets/078fb1f8-4840-4003-a5f2-9e7f83b766f0" />](https://www.tiktok.com/@itmemess/photo/7660523022452886804)
